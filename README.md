@@ -339,6 +339,6 @@ response = requests.get(
 
 You should now be able to scrape Google and Amazon with Web Unblocker. We have provided many examples in the [amazon](src/amazon) and [google](src/google) folders. 
 
-Learn more about [Web Unlocker](https://oxylabs.io/products/web-unblocker).
+Learn more about [Web Unblocker](https://oxylabs.io/products/web-unblocker).
 
 If you face any problems, reach out to support.
