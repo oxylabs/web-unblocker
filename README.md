@@ -47,6 +47,8 @@ Notice a few things here:
 - `--insecure` or the equivalent `-k` is required for Web Unblocker to work
 - `--proxy-user` or `-U` is used for the proxy user and password. If you don't have one, sign up for a [free trial](https://oxylabs.io/products/web-unblocker).
 
+If you are observing low success rates or retrieve empty content, please try adding additional `"x-oxylabs-render: html"` header with your request.
+
 You can find the equivalent python code in [getting_started.py](src/gettting_started.py):
 
 ```python
