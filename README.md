@@ -344,4 +344,6 @@ You should now be able to scrape Google and Amazon with Web Unblocker. We have p
 
 Learn more about [Web Unblocker](https://oxylabs.io/products/web-unblocker).
 
+Also, check this tutorial on [pypi](https://pypi.org/project/web-unblocker/)
+
 If you face any problems, reach out to support.
