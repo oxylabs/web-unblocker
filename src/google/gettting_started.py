@@ -5,7 +5,7 @@ proxies = {
     "https": "http://USERNAME:PASSWORD@unblock.oxylabs.io:60000",
 }
 
-url = "https://ip.oxylabs.io"
+url = "https://ip.oxylabs.io/location"
 response = requests.get(url, proxies=proxies, verify=False)
 
 print(response.text)
