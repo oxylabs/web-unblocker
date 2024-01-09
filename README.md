@@ -39,10 +39,10 @@ Web Unblocker has the following features:
 Execute the following `curl` command from your terminal:
 
 ```shellW
-curl --insecure --proxy unblock.oxylabs.io:60000 --proxy-user "USERNAME:PASSWORD" https://ip.oxylabs.io
+curl --insecure --proxy unblock.oxylabs.io:60000 --proxy-user "USERNAME:PASSWORD" https://ip.oxylabs.io/location
 ```
 
-The output should be a random IP.
+The output will be a random IP with additional location data.
 
 Notice a few things here:
 
@@ -62,7 +62,7 @@ proxies = {
     'https': 'http://USERNAME:PASSWORD@unblock.oxylabs.io:60000'
 }
 
-url = 'https://ip.oxylabs.io'
+url = 'https://ip.oxylabs.io/location'
 response = requests.get(url,
         proxies=proxies,
         verify=False) # disable SSL certificate verification
