@@ -1,6 +1,6 @@
 # Web Unblocker
 
-[![Web unblocker](https://user-images.githubusercontent.com/129506779/249698988-62f810bb-fe99-4c46-be3d-d4f7e4bc27f8.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=14)
+[![Web unblocker](https://raw.githubusercontent.com/oxylabs/web-unblocker/refs/heads/main/Web-Unblocker-1090x275.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=14)
 
 
 [![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/GbxmdGhZjq)
