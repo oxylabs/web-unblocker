@@ -1,8 +1,8 @@
 # Web Unblocker
 
-[![Web unblocker](https://raw.githubusercontent.com/oxylabs/web-unblocker/refs/heads/main/Web-Unblocker-1090x275.png)](https://oxylabs.io/products/web-unblocker?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=web-unblocker-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Web unblocker](https://raw.githubusercontent.com/oxylabs/web-unblocker/refs/heads/main/Web-Unblocker-1090x275.png)](https://oxylabs.io/products/web-unblocker?utm_source=github&utm_medium=referral&utm_content=web-unblocker&utm_campaign=banner&groupid=877)
 
-<a href="https://oxylabs.io"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
+<a href="https://oxylabs.io/?utm_source=github&utm_medium=referral&utm_content=web-unblocker&utm_campaign=banner&groupid=877"><img src="https://img.shields.io/badge/🚀_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
 <a href="https://developers.oxylabs.io"><img src="https://img.shields.io/badge/📚_Documentation-4A90E2?style=for-the-badge" alt="Documentation"></a>
 <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/📊_Dashboard-2EA44F?style=for-the-badge" alt="Dashboard"></a>
 <a href="https://discord.gg/Pds3gBmKMH"><img src="https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge" alt="Discord"></a>
@@ -28,7 +28,7 @@
 
 ## Introduction
 
-[Web Unblocker](https://oxylabs.io/products/web-unblocker) is an AI-powered proxy solution capable of bypassing sophisticated anti-bot systems.
+[Web Unblocker](https://oxylabs.io/products/web-unblocker?utm_source=github&utm_medium=referral&utm_content=web-unblocker&groupid=877) is an AI-powered proxy solution capable of bypassing sophisticated anti-bot systems.
 
 Web Unblocker has the following features:
 
@@ -53,7 +53,7 @@ Notice a few things here:
 
 - `--proxy` or `x` is used for proxy. Here, we use it for the URL of Web Unblocker
 - `--insecure` or the equivalent `-k` is required for Web Unblocker to work
-- `--proxy-user` or `-U` is used for the proxy user and password. If you don't have one, sign up for a [free trial](https://oxylabs.io/products/web-unblocker).
+- `--proxy-user` or `-U` is used for the proxy user and password. If you don't have one, sign up for a [free trial](https://oxylabs.io/products/web-unblocker?utm_source=github&utm_medium=referral&utm_content=web-unblocker&groupid=877).
 
 If you are observing low success rates or retrieve empty content, please try adding additional `"x-oxylabs-render: html"` header with your request.
 
@@ -347,7 +347,7 @@ response = requests.get(
 
 You should now be able to scrape Google and Amazon with Web Unblocker. We have provided many examples in the [amazon](src/amazon) and [google](src/google) folders. 
 
-Learn more about [Web Unblocker](https://oxylabs.io/products/web-unblocker).
+Learn more about [Web Unblocker](https://oxylabs.io/products/web-unblocker?utm_source=github&utm_medium=referral&utm_content=web-unblocker&groupid=877).
 
 Also, check this tutorial on [pypi](https://pypi.org/project/web-unblocker/)
 
